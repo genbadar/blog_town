@@ -18,7 +18,7 @@ export default function Index() {
             href="https://remix.run/tutorials/blog"
             rel="noreferrer"
           >
-            15m Quickstart Blog Tutorial
+            How to write a beautiful blog article using chatGPT?
           </a>
         </li>
         <li>
